@@ -1,0 +1,8 @@
+setup.py
+clickyang/__init__.py
+clickyang/hello.py
+clickyang.egg-info/PKG-INFO
+clickyang.egg-info/SOURCES.txt
+clickyang.egg-info/dependency_links.txt
+clickyang.egg-info/requires.txt
+clickyang.egg-info/top_level.txt
